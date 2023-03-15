@@ -1,0 +1,9 @@
+int main(){
+  
+  int b;
+  int c;
+  b=100;
+  c=200;
+  sum=c+b;
+  printf("%b\n",sum);
+}
